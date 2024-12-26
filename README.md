@@ -77,3 +77,10 @@ Obs.: With spring boot the port detection is automatic, so you don´t need to se
 
 ## **8. Consume the deployed application**
 Render will show you the URL to you deployed application. So just copy it and use it!
+
+Ps.: If you want to use my deployment, run the following curl:
+
+`curl 'https://hi-project-1-0.onrender.com/get-hi'`
+
+If it is taking a long time, just wait! All free tier deployment will enter into a "sleep mode" when it's not consumed 
+for too long. 
